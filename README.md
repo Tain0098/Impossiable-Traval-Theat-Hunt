@@ -1,4 +1,4 @@
-# Impossiable-Traval-Theat-Hunt
+# Impossible-Traval-Theat-Hunt
 
 Detection and Analysis 
 3 User was flag in search after undertaking the Alert Rule (Potential Impossible Travel) 
